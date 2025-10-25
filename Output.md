@@ -1,4 +1,4 @@
-# Ergio Rafael M. De Guzmaqn
+# Ergio Rafael M. De Guzman
 - C2B
 - Gt: TreeNode
 
